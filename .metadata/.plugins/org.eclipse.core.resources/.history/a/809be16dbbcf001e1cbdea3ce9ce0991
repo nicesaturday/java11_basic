@@ -1,0 +1,19 @@
+package org.kh.java;
+
+public class Casting1 {
+	public static void main(String[] args) {
+		char a = '\uae00';
+		
+		int b = 10;
+		float c = 2.0f;
+		System.out.println(b+c);
+		System.out.println(a);
+		
+		float h = 2.2f;
+		int a = (int) h;
+		
+		System.out.println(a);
+		
+		
+	}
+}

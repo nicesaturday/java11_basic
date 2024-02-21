@@ -1,0 +1,7 @@
+package org.kh.java;
+
+public class Variable3 {
+	public static void main(String[] args) {
+		int bin = 10111;
+	}
+}

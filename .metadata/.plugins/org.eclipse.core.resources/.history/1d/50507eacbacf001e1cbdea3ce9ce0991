@@ -1,0 +1,9 @@
+package org.kh.java;
+
+public class Casting1 {
+	public static void main(String[] args) {
+		char a = '글';
+		char b = 44544;
+		System.out.println((int) a);
+	}
+}

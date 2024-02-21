@@ -1,0 +1,10 @@
+package org.kh.java;
+
+public class Operation1 {
+	public static void main(String[] args) {
+		boolean a = 2 > 3 ? true:false;
+		
+		System.out.println(a);
+		
+	}
+}

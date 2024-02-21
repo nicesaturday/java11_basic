@@ -1,0 +1,11 @@
+package org.kh.java;
+
+public class Casting1 {
+	public static void main(String[] args) {
+		int i = 2;
+		
+		i = (short) 3;
+		char a = 38;
+		System.out.println(i);
+	}
+}

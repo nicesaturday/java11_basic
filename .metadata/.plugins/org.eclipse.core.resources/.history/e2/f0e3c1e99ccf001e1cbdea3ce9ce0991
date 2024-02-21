@@ -1,0 +1,10 @@
+package org.kh.java;
+
+public class Variable3 {
+	public static void main(String[] args) {
+		int bin = 0b10111;
+		int hex = 0x1011;
+		int add = bin + hex;
+		System.out.println("bin="+add);
+	}
+}

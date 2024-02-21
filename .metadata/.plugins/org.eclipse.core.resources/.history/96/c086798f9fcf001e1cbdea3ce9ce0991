@@ -1,0 +1,10 @@
+package org.kh.java;
+
+public class Variable4 {
+	public static void main(String[] args) {
+		String name = "kim";
+		short age= 20;
+		double height = 200.05;
+		
+	}
+}

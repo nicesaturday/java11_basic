@@ -1,0 +1,14 @@
+package org.kh.java;
+
+public class Variable1 {
+	public static void main(String[] args) {
+		boolean a = true;
+		byte b = -128;
+		short c = 32767;
+		char d = 'k';
+		int e = 2345678;
+		float f = 1.4f;
+		long g = 2767814;
+		double h = 2.55d;
+	}
+}

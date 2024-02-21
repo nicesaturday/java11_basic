@@ -1,0 +1,10 @@
+package org.kh.java;
+
+public class Operation1 {
+	public static void main(String[] args) {
+		float a = 10.2f;
+		
+		System.out.println(Float.parseFloat(a));
+		
+	}
+}

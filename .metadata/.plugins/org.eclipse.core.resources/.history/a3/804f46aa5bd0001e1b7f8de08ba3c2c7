@@ -1,0 +1,24 @@
+package org.kh.site2;
+
+public class Operation7 {
+	public static void main(String[] args) {
+		int a = 20;
+		int b = 5;
+		int temp;
+		
+		
+		int x = 0b01101111;
+		int y = 0b010111;
+		
+		String x1 = Integer.toBinaryString(x);
+		String y1 = Integer.toBinaryString(y);
+		
+		
+		System.out.println(Integer.toBinaryString(x ^= y));
+		System.out.println(Integer.toBinaryString(x & y));
+		System.out.println(Integer.toBinaryString(x << 2));
+//		System.out.println(Integer.toBinaryString(x |= y));
+//		System.out.println(Integer.toBinaryString(x &= y));
+
+	}
+}
