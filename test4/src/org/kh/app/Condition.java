@@ -1,4 +1,4 @@
-package org.kh.site3;
+package org.kh.app;
 
 public class Condition {
 	public static void main(String[] args) {

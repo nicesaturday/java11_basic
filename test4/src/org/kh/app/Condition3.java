@@ -1,4 +1,4 @@
-package org.kh.site3;
+package org.kh.app;
 
 import java.util.Scanner;
 
