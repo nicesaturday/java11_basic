@@ -12,5 +12,8 @@ public class Condition2 {
 		
 		
 		System.out.printf("%n당신의 성별은 %s입니다.",gender);
+		
+		
+		//haha
 	}
 }
