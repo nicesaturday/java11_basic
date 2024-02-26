@@ -7,12 +7,17 @@ public class Notice {
 	private int day;
 	private String todo;
 	private String place;
+	private Board board;
 	
-	public Notice(int id, int day, String todo, String place) {
+	
+	
+	public Notice(int id, int day, String todo, String place, int bno , int visited) {
 		this.id = id;
 		this.day = day;
 		this.todo = todo;
 		this.place = place;
+		this.board.setBno(bno);
+		this.board.setVisited(visited);	
 	}
 	
 	
